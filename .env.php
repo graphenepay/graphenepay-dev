@@ -30,8 +30,8 @@ return array(
     /*
      * CLI_WALLET server settings
      */
-    'RPC_SERVER'                => '94.23.200.113',
-    'RPC_PORT'                  => 8004,
+    'RPC_SERVER'                => '',
+    'RPC_PORT'                  => 8090,
     'RPC_VERSION'               => "2.0",
 
 
@@ -40,7 +40,7 @@ return array(
      */
 
     'STEEMPAY_ACCOUNT'          => 'steempayments',
-    'RECEIVER_HISTORY_COUNT'    => 1000,
+    'RECEIVER_HISTORY_COUNT'    => 100,
 
 
     'ENABLE_DEBUG'              => true,
