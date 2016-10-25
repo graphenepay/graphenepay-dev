@@ -1,7 +1,7 @@
 # GraphenePay, one solution for all Graphene based blockchains. 
 ### Full PHP code to be scalable and easy to integrate on any webhost.
 
-http://i.imgur.com/4efF6WW.png
+![http://i.imgur.com/4efF6WW.png](http://i.imgur.com/4efF6WW.png "http://i.imgur.com/4efF6WW.png")
 
 ----
 http://i.imgur.com/m4DIKV4.png
