@@ -8,7 +8,7 @@ return array(
      * Set to 'WSS' for websockets or 'RPC' for RPC connection trough CLI_WALLET
      */
 
-    'CONNECTION_PROTOCOL'       => "RPC",
+    'CONNECTION_PROTOCOL'       => "WSS",
 
     /*
      * Golos: wss://golos.steem.ws
