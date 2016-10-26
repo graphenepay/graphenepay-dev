@@ -90,5 +90,8 @@ All fundings will come from related posts and my **witness** steve-walschot. Ple
 ## License
 This software is released under the MIT license as described in https://github.com/graphenepay/graphenepay-dev/blob/master/license.md
 
+## Credits
+https://github.com/adcpm/steem
+
 
 # Truly yours, steve.
