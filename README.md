@@ -87,5 +87,8 @@ Good! Please make a pull request or contact me on steemit.chat
 ## GraphenePay funding
 All fundings will come from related posts and my **witness** steve-walschot. Please take your time to upvote my witness at https://steemit.com/~witnesses
 
+## License
+This software is released under the MIT license as described in https://github.com/graphenepay/graphenepay-dev/blob/master/license.md
+
 
 # Truly yours, steve.
